@@ -1,0 +1,8 @@
+# Dependency directories
+node_modules/
+
+#Log
+yarn.lock
+
+.vscode
+.DS_Store
